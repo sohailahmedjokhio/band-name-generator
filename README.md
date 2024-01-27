@@ -7,32 +7,26 @@ Welcome to the Band Name Generator, a simple Python script that generates creati
 
 # How to Use
 1. Clone the repository to your local machine.
-<pre>  
-git clone https://github.com/your-username/band-name-generator.git
-</pre>
+<pre> git clone https://github.com/your-username/band-name-generator.git </pre>
 2. Navigate to the project directory.
-<pre>
-cd band-name-generator
+<pre> cd band-name-generator
 </pre>
 3. Run the script.
-<pre> 
-python band_name_generator.py
-</pre>
+<pre>python band_name_generator.py</pre>
 4. Follow the prompts:
 - Enter the name of the city where you grew up.
 - Enter the name of your pet.
 5. The script will then generate and display a band name based on your inputs.
 
 ## Example
-<pre>
-Welcome to Band Name Generator.
-Write the name of the City where you grew up in?
+<pre> Welcome to Band Name Generator.
+  
+1. Write the name of the City where you grew up in?
 New York
 2. What is the name of your pet?
 Rocky
 
-Your band name can be New York Rocky
-</pre>
+Your band name can be New York Rocky </pre>
 
 ## Customization
 Feel free to modify the script to add more input prompts or tweak the generated band name format according to your preferences.
